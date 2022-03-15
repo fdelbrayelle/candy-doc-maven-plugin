@@ -3,8 +3,6 @@ on:
   push:
     branches:
       - feat/*
-
-
 jobs:
   release:
     name: Release
